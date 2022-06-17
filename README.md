@@ -7,7 +7,10 @@ gulp/webpack利用によるEJS/SCSS/TypeScript環境
 ### version
 
 node: v16.13.0
+
 npm: 8.1.0
+
+上記で動作確認済みだがnpmパッケージのvulnerability対応をしていない
 
 ### procedure
 
@@ -18,4 +21,5 @@ npm: 8.1.0
 ## reference
 
 https://ics.media/entry/3290/
+
 https://ics.media/entry/16329/
